@@ -1,3 +1,29 @@
+# open-lovable
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+🔥 Clone and recreate any website as a modern React app in seconds
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+几秒内把任意网站克隆并重建为现代 React 应用。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Open Lovable
 
 Chat with AI to build React apps instantly. An example app made by the [Firecrawl](https://firecrawl.dev/?ref=open-lovable-github) team. For a complete cloud solution, check out [Lovable.dev](https://lovable.dev/) ❤️.
